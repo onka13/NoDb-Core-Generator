@@ -12,7 +12,7 @@ You can generate;
 
 ***
 
-![Image](https://raw.githubusercontent.com/onka13/NoDb-Core-Generator/master/_docs/screenshot1.png)
+![Image](https://raw.githubusercontent.com/onka13/NoDb-Core-Generator/master/docs/screenshot1.png)
 
 ### Installation
 
