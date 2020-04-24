@@ -20,6 +20,9 @@ You can generate;
 - [Install Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=onka13.NoDbCoreGenerator)
 - Visual Studio -> View -> Other Windows -> `Onka NoDb Core Generator `
 
+Watch on Youtube [https://youtu.be/ALUUrMsQwL4](https://youtu.be/ALUUrMsQwL4)
+[![Demo Video](http://i3.ytimg.com/vi/ALUUrMsQwL4/maxresdefault.jpg)](https://youtu.be/ALUUrMsQwL4 "Demo Video")
+
 ## Todo
 
 - [ ] Create documentation
