@@ -1,5 +1,7 @@
 ## NoDb-Core-Generator
 
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/onka13.NoDbCoreGenerator?label=vs%20extension%20installs)
+
 .NET Core Code generator with using NoDb.
 
 You can generate;
